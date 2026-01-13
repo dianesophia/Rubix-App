@@ -52,7 +52,7 @@ export interface CubeTypeInfo {
 
 export const DEFAULT_CUBE_TYPES: CubeTypeInfo[] = [
     {type: '2x2', label: '2x2',  icon: '🟩'},
-    {type: '3x3', label: '3x3',  icon: '🟥'}
+    {type: '3x3', label: '3x3',  icon: '🟥'},
     {type: '4x4', label: '4x4',  icon: '🟦'},
     {type: '5x5', label: '5x5',  icon: '🟨'},
     {type: '6x6', label: '6x6',  icon: '🟪'},
